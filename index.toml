@@ -45,6 +45,10 @@ file = "config/xaerominimap.txt"
 hash = "2bf166fb5f25afb6f7ec12c9aaf5947eb8918bd89e97c89d4eee30a66dbfe462"
 
 [[files]]
+file = "defaultconfigs/sophisticatedbackpacks-server.toml"
+hash = "a7d9a1301539448d56d918ba9630a09a7d5e08e151022a79e290d6e13e61cd55"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
 metafile = true
