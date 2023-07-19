@@ -1,6 +1,50 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/emi.css"
+hash = "0884c26b934d902d2f729f2008016db22d60079c3e9c4ecd3dcd5372517019b7"
+
+[[files]]
+file = "config/fml.toml"
+hash = "7437bbdab8eef5154317773f42cd409f189def0a7643d8bf7519579d72a8a981"
+
+[[files]]
+file = "config/ftbbackups2.json"
+hash = "0341375841065821f84377d18765d68ab8e40d8dd95e7859ee5cb1cf81f2c37a"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "78caf84e8326984887e7e5245f4b208c1c86d8fd9c04b68da2308e659ec523db"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "7667b8bf76e8e1e1d39394a0247406aae621b9127b9f291289c6e7d84fb31c4a"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "5a12d7d1f4b9cc82b75d41c9bb43eccff4ab765ecdfffed4906802509f4f63ee"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "9deac508f053165cc52e509f07ca4fe68c5b1be33c90adae1eb05493cc694f1a"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "f0999cee58a3737adb340aeda5812554fdac694a7d70af2348d8251c25a5b96e"
+
+[[files]]
+file = "config/savage_and_ravage-common.toml"
+hash = "992353d0c9dc9e9555ee367d62a937b59ac38bb8c9011152393292cc6caaa854"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "2bf166fb5f25afb6f7ec12c9aaf5947eb8918bd89e97c89d4eee30a66dbfe462"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
 metafile = true
