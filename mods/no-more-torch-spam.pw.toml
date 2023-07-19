@@ -1,0 +1,13 @@
+name = "No More Torch Spam"
+filename = "nomoretorchspam-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "175df01f88565a1d148c72b0d6e487d9d21502d7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4125209
+project-id = 485048

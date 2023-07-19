@@ -1,0 +1,13 @@
+name = "Wall Jumping"
+filename = "walljump.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c2b39895944ed34ba62c4380d0383dda0a4347a3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4561497
+project-id = 868527
