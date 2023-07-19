@@ -420,6 +420,11 @@ hash = "63800317329d340d3550b00dda4fecb2861cc6a643c2390d34f446c550ff9f06"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "ebe4f9026b88b5e526c15cfb5a00f78b3c7538970df343803fbcdf36ede37534"
+metafile = true
+
+[[files]]
 file = "mods/no-more-torch-spam.pw.toml"
 hash = "1a40b657ec44e781bdfd52d8acdefca5beafa488c394f664f1c37f9e04a76383"
 metafile = true
