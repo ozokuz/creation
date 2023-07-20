@@ -1,4 +1,6 @@
 .gitattributes
 .gitignore
+kubejs/probe
+kubejs/jsconfig.json
 LICENSE
 README.md
