@@ -19853,7 +19853,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "0d811c5925ab421346c144d1843a3ec7709dd8c95e6c088a4d17ccb05509e204"
+hash = "bb69d46301fd168a5c174b6a687f72571013845b6352aa9ea394dec1d1cd76e3"
 metafile = true
 
 [[files]]
@@ -19988,7 +19988,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "1672dd487a25a13e47cfdc585a25da353b86c64b1a846c54993568c04c3bfee9"
+hash = "779fc5d3eaf0e88b288da3dfed3ba583125aa75de2b6bd6e5f059463c7df1ebb"
 metafile = true
 
 [[files]]
