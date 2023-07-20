@@ -1,0 +1,13 @@
+name = "Coins JE"
+filename = "Coins-Forge-1.19.2-10.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a277e2d49e8d8ccb1594ed6b1d0b8e5ce262f0f3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4277164
+project-id = 377056
