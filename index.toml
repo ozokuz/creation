@@ -213,6 +213,11 @@ hash = "d07aad009ac2e58a667d5893e862ab362db02e1ba104aa2dfd65337afb3551e6"
 metafile = true
 
 [[files]]
+file = "mods/callable-horses.pw.toml"
+hash = "914c652347a5a4142e0dfdf801926a7bc0bd77be6edb2a032cf88a01a2dd37bb"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 hash = "8b9ca62e9e45a92769faee6517dac6ea1f5bda96a50c35fc492fb76ef480897c"
 metafile = true
