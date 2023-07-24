@@ -456,6 +456,11 @@ hash = "eea88a013ce0995fe1e7680ad3297e2cf6f83ee491a5413b25ce321aff899e90"
 metafile = true
 
 [[files]]
+file = "mods/horsefix.pw.toml"
+hash = "212a1808028888271594bf9a368d24db481db8aede5db607f309ffbdb2077b8d"
+metafile = true
+
+[[files]]
 file = "mods/infernal-expansion.pw.toml"
 hash = "b5eebcb16bafdfc4c962559ab7c5bd77a817e8622a5d1ac635633f0780c96c5d"
 metafile = true

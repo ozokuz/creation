@@ -1,0 +1,7 @@
+name = "horsefix"
+filename = "horsefix-1.0.0-all.jar"
+
+[download]
+url = "https://files.nrth.xyz/temp/horsefix-1.0.0-all.jar"
+hash-format = "sha256"
+hash = "e6424d65ec258dbd599ac232b76d1b3a6ea25c324a3f769cd2ba436cee10f6d0"
