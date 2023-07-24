@@ -733,7 +733,7 @@ metafile = true
 
 [[files]]
 file = "mods/torchmaster.pw.toml"
-hash = "5541e79ad0de4d09097fdc19b54a342076afa72582a434d58809e1a639a847d4"
+hash = "c7448deee2244f70005e7ea289277f1d1645062ac3268d268bab81f1ffe57d4d"
 metafile = true
 
 [[files]]
