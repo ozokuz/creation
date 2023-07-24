@@ -50,7 +50,7 @@ hash = "c9fd563feb48f49f19b737cd966475c4f1071b958a928045ef9992b60fed0c97"
 
 [[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"
-hash = "a7d9a1301539448d56d918ba9630a09a7d5e08e151022a79e290d6e13e61cd55"
+hash = "83519c51fa57f8a8ff7bb433b02d84873b39bf9dd58f710ee8f36d4a95d412e0"
 
 [[files]]
 file = "kubejs/assets/toms_storage/models/block/cable_connector/base.json"
@@ -311,6 +311,11 @@ hash = "e79c0c7ce7d67628a19b74480d9d3fe0dfd2bf1cbb5505d167f033815c3d84a7"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "c98b92c96eb546872a0d203969ddba29a17f6ab0e57ff93081d81a138562e8b7"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "d241b1f25745db20ef4a9cc73af390b2a30f31d6b2ecff689a9d4e2b11a8d1a1"
 metafile = true
@@ -536,6 +541,11 @@ hash = "4197e21b90ffc991b42fb07a8e2c55824ba30f66185688a1e63ddbbecd10937e"
 metafile = true
 
 [[files]]
+file = "mods/leave-my-bars-alone.pw.toml"
+hash = "18c83961428729d4cd6b90ed1f822c89c55b963df3ad85d076800287091524f1"
+metafile = true
+
+[[files]]
 file = "mods/let-me-despawn.pw.toml"
 hash = "d87302d87af9762233ad3030ff3457e94312b77daab8652129b01029cf1a2b76"
 metafile = true
@@ -626,8 +636,18 @@ hash = "b004022582a154f5d55c1b7660a4075f37962783dc20af8f046afe3bbc839171"
 metafile = true
 
 [[files]]
+file = "mods/portable-hole.pw.toml"
+hash = "1a40129cdc8d808262393d7426864a344fdd5025a44e437221e1db0ba2bc772b"
+metafile = true
+
+[[files]]
 file = "mods/probejs.pw.toml"
 hash = "73a886e89a6a76a9f4a3959d901e6a9e94d80913ac041b1b40b5be2743e9b81f"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "4792b5508f6583035d60a5d681d1f05bb52acef432fb47f132bcfb1b53d518f6"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Portable Hole"
+filename = "PortableHole-v4.0.0-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d5809522dcfd1af33da1c1d05c6a91e5df0a341f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4011441
+project-id = 682568
