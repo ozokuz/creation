@@ -42,7 +42,11 @@ hash = "992353d0c9dc9e9555ee367d62a937b59ac38bb8c9011152393292cc6caaa854"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "2bf166fb5f25afb6f7ec12c9aaf5947eb8918bd89e97c89d4eee30a66dbfe462"
+hash = "6c766e1c830533a7e58fc9a078722063014655582b7d35a2fe5f5fbf6a1b3bb6"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "c9fd563feb48f49f19b737cd966475c4f1071b958a928045ef9992b60fed0c97"
 
 [[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"
