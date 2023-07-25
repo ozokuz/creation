@@ -1,0 +1,7 @@
+name = "immersive-petroleum"
+filename = "ImmersivePetroleum-1.19.2-4.2.0-1.jar"
+
+[download]
+url = "https://github.com/PaulerLeOne/ImmersivePetroleum/releases/download/1.19.2-4.2.0-1/ImmersivePetroleum-1.19.2-4.2.0-1.jar"
+hash-format = "sha256"
+hash = "59c276c3a21fab771c9cbda3383371ec261fbb520613f17be7e58e96da7b0cc0"

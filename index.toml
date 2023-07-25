@@ -461,6 +461,16 @@ hash = "eea88a013ce0995fe1e7680ad3297e2cf6f83ee491a5413b25ce321aff899e90"
 metafile = true
 
 [[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "632cc987bec151520dd5636f1152c7b7af67403a5957adfdcc6d3c2e4d39ac79"
+metafile = true
+
+[[files]]
+file = "mods/immersive-petroleum.pw.toml"
+hash = "fd0507dba645cf36f2eef8a782ab94fffe49d822ca42a2856012742c2c962200"
+metafile = true
+
+[[files]]
 file = "mods/infernal-expansion.pw.toml"
 hash = "b5eebcb16bafdfc4c962559ab7c5bd77a817e8622a5d1ac635633f0780c96c5d"
 metafile = true
