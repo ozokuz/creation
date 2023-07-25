@@ -173,6 +173,10 @@ file = "kubejs/server_scripts/toms_storage.js"
 hash = "feba5d2431763856661fe20752a1cffd9515f6138b3d8b56f03fcb02ee7c66cd"
 
 [[files]]
+file = "kubejs/server_scripts/torchspam.js"
+hash = "38911dbb3b81bf4599f42e210ab07630e55799023f840d26e5880b98f40c4917"
+
+[[files]]
 file = "kubejs/server_scripts/travel_anchors.js"
 hash = "66842f03a2aab4bd87d5888baba8494c1b73e84458ffc199fceb55b0ef770e9e"
 
