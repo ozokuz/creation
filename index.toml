@@ -359,6 +359,11 @@ hash = "b09ca1d2151f681b3febe34c5412d213c1c7ff46a2bd5a6f9b6f55dab904baea"
 metafile = true
 
 [[files]]
+file = "mods/createfix.pw.toml"
+hash = "ae6c6065d5198b87f55d3f2981fcf9d95e114d4303db6129f6d4d294b05d30b0"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "fdeab9633fc995e4910a08d6d8110a258f30b37c7a65128b8d6a46af797df3a0"
 metafile = true

@@ -1,0 +1,7 @@
+name = "createfix"
+filename = "createfix-1.0.0.jar"
+
+[download]
+url = "https://files.nrth.xyz/temp/createfix-1.0.0.jar"
+hash-format = "sha256"
+hash = "abd7ff3557d3f37ff8d928aedb17137883c81fee16eddd17e8d14c59221779d5"
