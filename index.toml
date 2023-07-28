@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/carryon-common.toml"
+hash = "bed1f378722690954130ac405528c30a2bad538f43f6973cea818c1cab61c0aa"
+
+[[files]]
 file = "config/emi.css"
 hash = "0884c26b934d902d2f729f2008016db22d60079c3e9c4ecd3dcd5372517019b7"
 
@@ -47,6 +51,10 @@ hash = "6c766e1c830533a7e58fc9a078722063014655582b7d35a2fe5f5fbf6a1b3bb6"
 [[files]]
 file = "config/xaeroworldmap.txt"
 hash = "c9fd563feb48f49f19b737cd966475c4f1071b958a928045ef9992b60fed0c97"
+
+[[files]]
+file = "defaultconfigs/create-server.toml"
+hash = "fd03cae12f9655bb1a9851a9ef1c877d960e0bbc0789e1dd4bb5d4627c340a49"
 
 [[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"
