@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/callablehorses-common.toml"
+hash = "cc8875b830f06af0cb6bd06c8f9bcdfa56006d94bd72821fd196b832075b94db"
+
+[[files]]
 file = "config/carryon-common.toml"
 hash = "bed1f378722690954130ac405528c30a2bad538f43f6973cea818c1cab61c0aa"
 
