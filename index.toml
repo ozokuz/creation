@@ -479,6 +479,11 @@ hash = "eea88a013ce0995fe1e7680ad3297e2cf6f83ee491a5413b25ce321aff899e90"
 metafile = true
 
 [[files]]
+file = "mods/horsefix.pw.toml"
+hash = "5901ed7b621440e925402d61d40c0f4624413d458b91c2f4a8c89e0d2f79cc80"
+metafile = true
+
+[[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "632cc987bec151520dd5636f1152c7b7af67403a5957adfdcc6d3c2e4d39ac79"
 metafile = true
