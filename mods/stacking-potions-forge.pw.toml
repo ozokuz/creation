@@ -1,0 +1,13 @@
+name = "Stacking Potions [Forge]"
+filename = "stacking_potions-1.19.2-2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ec493e527a87fef546eb116593f88c3be34e303c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4381317
+project-id = 822290
