@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "8b9ca62e9e45a92769faee6517dac6ea1f5bda96a50c35fc492fb76ef480897c"
+hash = "d08052537a462b55988c05615626eb7ad3b59262a7f62fd4e08e774b8d45ebe7"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
-hash = "d241b1f25745db20ef4a9cc73af390b2a30f31d6b2ecff689a9d4e2b11a8d1a1"
+hash = "6b5602f598e31ed3bfad6aca3c2c2ea8b84f486f56e4f24cb0f4812562afa911"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "0411e64593777bb9df38688e32606180452270f037c85c4113e22ea2b2a92a75"
+hash = "93a16806fe646428263276f2d0cf24e1e8db4e58f6be00e6be5b397b898edb1a"
 metafile = true
 
 [[files]]
@@ -731,7 +731,7 @@ metafile = true
 
 [[files]]
 file = "mods/torchmaster.pw.toml"
-hash = "12610639c1207475cbfc686ee4b963ecd3a6dd383390e95b4c1e047324642622"
+hash = "2d6ae9336d21ea6a268a442acc932ebf2915ca0bbeb62c75facb8494815858b9"
 metafile = true
 
 [[files]]
