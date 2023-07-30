@@ -265,6 +265,11 @@ hash = "d241b1f25745db20ef4a9cc73af390b2a30f31d6b2ecff689a9d4e2b11a8d1a1"
 metafile = true
 
 [[files]]
+file = "mods/create-balanced-flight.pw.toml"
+hash = "4c215d9c7699990fc8650fefbea4828d15c7d2ee741271b61b33cf1581aef737"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "5363bd4ee840c95621fb7ff4d7b3763ab9b84dfded287200c312e01485b6095e"
 metafile = true
