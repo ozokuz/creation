@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
-hash = "5363bd4ee840c95621fb7ff4d7b3763ab9b84dfded287200c312e01485b6095e"
+hash = "dd4a04b96902294a8bfaa95c810322d6a2117c6edf26a16e3a67ddfca1295c67"
 metafile = true
 
 [[files]]
@@ -681,7 +681,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "10c40a892e38ee9262f6e1d0c2d165acaaf995d9da62a3fad679e626f2ea54ab"
+hash = "b1661fd8e4bc9a49aa8412a549a2bf36f43803eef3fdac4dbab629ab211ba088"
 metafile = true
 
 [[files]]
