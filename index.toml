@@ -475,11 +475,6 @@ hash = "52afe64a215ec7a20a2424de639020369e5d25fad69ede02a700edde08dd81db"
 metafile = true
 
 [[files]]
-file = "mods/just-enough-immersive-multiblocks.pw.toml"
-hash = "56904744466d783e1f30b2c48532f16928e01df110e1c801397d544840abba73"
-metafile = true
-
-[[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "da3c3b8b5ae30b1b9e9ecab4b77ce2829bfd94b97bec4b2745f5ba8dea40c9e2"
 metafile = true
