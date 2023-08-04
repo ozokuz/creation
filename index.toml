@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-loaders.pw.toml"
-hash = "3f4c4eb77b2ed2697507b7b9b911e19be8cd329bd9ee035a64ec1401789ca0c6"
+hash = "4c37b1d65392995d88bb149ecd2d23db209c808954318d3be0cddfd1a1c3536a"
 metafile = true
 
 [[files]]
@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
-hash = "dd4a04b96902294a8bfaa95c810322d6a2117c6edf26a16e3a67ddfca1295c67"
+hash = "911587b346ce501da20f4273e2cb1eba3a57ec99adf7adc8559a1686ce1ff59e"
 metafile = true
 
 [[files]]
@@ -321,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "56e0bc46dc4b4bff3a61d42fc10bbd09b35ffe403bfd542603cccb0b5d68c3fb"
+hash = "57696bf1ef1e118c4386771e0b9bc9c8fc64a59b20acadd7ed232e705f4111b9"
 metafile = true
 
 [[files]]
@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/experience-obelisk.pw.toml"
-hash = "0a739b55f51954831876f20664b3f7bf71dcf9840cb1b6b0bc2534c3341f8c5d"
+hash = "c2d925598e48b203edc654adfdcf9681c32159cfa31c9f8080254bb69222d484"
 metafile = true
 
 [[files]]
@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "8189165b2426b999ed9621cb79aacab2635f3220fac15716a6f43084a0eb0986"
+hash = "7178ff9343de304a0b6a46bb26469b82ae90051f17ea4e5e547bbc86cbf7982f"
 metafile = true
 
 [[files]]
@@ -371,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastsuite.pw.toml"
-hash = "d6c054a4f547e92831b8ef5fe4afea6432269a19fd1a60ba576865faff8a4638"
+hash = "6ec4fcec4795f75ffdb7333316b4a40acb97bd4e5560d0ea437d477358b10d87"
 metafile = true
 
 [[files]]
@@ -486,12 +486,12 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-create.pw.toml"
-hash = "2fec2ab0bc06ecb9cb99aeba6bfeef5b10662307962e08f2afa4fe301077c9ba"
+hash = "376a1c516b5c6b7323c50fe47eaa8e533ca0086df000f5bb55209d9fbd4da247"
 metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "510a8173f1e4ccb7fe3b907a3ea188816067cf91b26b7e0aa24a8bef1d532830"
+hash = "5fadc44d9a151374fbbff4fa9c044642be386c70143f3fc09fbd7e407c05804a"
 metafile = true
 
 [[files]]
@@ -541,7 +541,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "1afb33be54c4e1b2020665d327ccbc907f87a329e0a1638d00dcc5405b982bce"
+hash = "0e1c412c60e0afe792b92356e1a752f6f450e66cce335695588e2c8a549a5c1e"
 metafile = true
 
 [[files]]
@@ -586,7 +586,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "9b409beaca7ae5b0d4637f0974ed442882b100de7c3a827f74ac95f370724c0a"
+hash = "306cbb32a5e21015ea1e6e79f2175bff33213abd18af4403e4b9bc72adf4e28d"
 metafile = true
 
 [[files]]
