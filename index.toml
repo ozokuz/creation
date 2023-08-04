@@ -160,6 +160,11 @@ hash = "3094a52897889217e37bf772fa43727fc4a7f81d0dc9a5e25be933630192bcbb"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+hash = "99192cbb2aa5019f9064cfbe02c069a74b12b060f40a927c1654b2a7680ed4c1"
+metafile = true
+
+[[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "d07aad009ac2e58a667d5893e862ab362db02e1ba104aa2dfd65337afb3551e6"
 metafile = true
@@ -635,6 +640,11 @@ hash = "f763a446dd3eec21d454f2bb9f8fa2175d3991d8e34a86f4e2baaaddb4b35a0f"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "248562f7717f02d954ea1b73c03033a666db6f5c9156f331cb0287869626d6da"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "a5b1cff7c66d98ad0d0c53903bdc5b802b4036268e56d9342a708274435343f8"
 metafile = true
@@ -682,6 +692,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "555c2ed7500d7deb9f0dbfbc6a597bfa76ae2a22ccdbe7ab3632cde4278169b4"
+metafile = true
+
+[[files]]
+file = "mods/spirit.pw.toml"
+hash = "95d37dc71c9152dff422cf9c8e2328d7a999e887a5d8f64c1f1843b1263c5c55"
 metafile = true
 
 [[files]]
@@ -747,6 +762,11 @@ metafile = true
 [[files]]
 file = "mods/travel-anchors.pw.toml"
 hash = "60a48040684bee94881da38994c2e8695fa8c4889b234f5943d32f2535f1448c"
+metafile = true
+
+[[files]]
+file = "mods/vitalize.pw.toml"
+hash = "1a2cbf42c911169150d3ccda20b50bb601804c3b9b3ba9979c3deb4d737cff19"
 metafile = true
 
 [[files]]
