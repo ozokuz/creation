@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "b09ca1d2151f681b3febe34c5412d213c1c7ff46a2bd5a6f9b6f55dab904baea"
+hash = "121bfb7dba38eff5de393befb8a4cebcce60b3425fc41d2aa9d7cfe3b3bdd3b5"
 metafile = true
 
 [[files]]
@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "5fadc44d9a151374fbbff4fa9c044642be386c70143f3fc09fbd7e407c05804a"
+hash = "33954ae0301e0b8e0ef26d775ff0d2125d7824ba238f8c732fbeaa0e0471f58b"
 metafile = true
 
 [[files]]
@@ -546,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "0e1c412c60e0afe792b92356e1a752f6f450e66cce335695588e2c8a549a5c1e"
+hash = "348d38562ba1cd7104905775e8efdc3cf1052d7fa235d1f49ad2a80799bff9ca"
 metafile = true
 
 [[files]]
@@ -776,12 +776,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9658c4a2dfbbb1f76b65748b78360615e4a6b00f7372fd5ae711b642f8c8c252"
+hash = "9e8452c63788eaaecfbb4e5c4e9fe039778e7e9b6f9a1aa90b0dec3faa942e4e"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "974aa7689a1ac245fcf0ec57bc85ecef9ab8266eb8d55b5e9c3c8c9977b9a26f"
+hash = "1de53c6f725df6adebfbdc1b5b81a77f036722f06a8c8a157aae36fa35532b23"
 metafile = true
 
 [[files]]
