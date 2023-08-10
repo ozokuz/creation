@@ -130,6 +130,11 @@ hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "db0a6a9c7d7c84ff18029f21a083e445ace641b6568453ffeddc0c406a6673e9"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e81baa549b913cf7d30a730d18846ff41aa833928328e3e1f2ec0686d815cd47"
 metafile = true
@@ -295,6 +300,11 @@ hash = "93a16806fe646428263276f2d0cf24e1e8db4e58f6be00e6be5b397b898edb1a"
 metafile = true
 
 [[files]]
+file = "mods/create-molten-vents.pw.toml"
+hash = "d87ba3c9fe2de6fa6ec95db89514fbc3044e599f2939e0043aba571395ba0af5"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "c0c8819595b27c1aff854c8570acc3fe87dd42d88d8219e7abdd4781257d6ac2"
 metafile = true
@@ -422,6 +432,11 @@ metafile = true
 [[files]]
 file = "mods/geophilic.pw.toml"
 hash = "eea88a013ce0995fe1e7680ad3297e2cf6f83ee491a5413b25ce321aff899e90"
+metafile = true
+
+[[files]]
+file = "mods/gregtech.pw.toml"
+hash = "d4a628d9825577b6568d9b0a4337ee6e4647c3e9e7dc9e16fef3be1bab8b832e"
 metafile = true
 
 [[files]]
