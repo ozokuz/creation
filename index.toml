@@ -125,6 +125,11 @@ file = "kubejs/server_scripts/woodcompat.js"
 hash = "f2a89dadda3c4f9c23d4e74d5a950e44328c4143b2e35aa27709c182b8dafbe1"
 
 [[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "2b9110a630393ecd0cfe096ac8799d2bb3ee00743ca927a2e610e6f71be359a9"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
 metafile = true
@@ -135,8 +140,18 @@ hash = "db0a6a9c7d7c84ff18029f21a083e445ace641b6568453ffeddc0c406a6673e9"
 metafile = true
 
 [[files]]
+file = "mods/archers-paradox.pw.toml"
+hash = "a8ea2ddb925226372695883ab7c882b4927d0e596b37b432010d2af4c821e9d0"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e81baa549b913cf7d30a730d18846ff41aa833928328e3e1f2ec0686d815cd47"
+metafile = true
+
+[[files]]
+file = "mods/art-of-forging-a-tetra-addon.pw.toml"
+hash = "6ef8645be694b6a96970c3e753b16c239ab132712a3cf4f8246b667490c13f5f"
 metafile = true
 
 [[files]]
@@ -152,6 +167,16 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "22f47db1058d619e0ed6c6531eac43dd9b504addff8a2f1fc8ba2d4856a2feba"
+metafile = true
+
+[[files]]
+file = "mods/better-combat-by-daedelus.pw.toml"
+hash = "a88250ec382bd3aa224e11b803500a56d84b2c103f56834ef7ecb6eab938c24f"
+metafile = true
+
+[[files]]
+file = "mods/bf-end-cities.pw.toml"
+hash = "22c62cf18e61f9feee3284409aa540447f430b886ddc6669c4e153dff48addf4"
 metafile = true
 
 [[files]]
@@ -172,6 +197,11 @@ metafile = true
 [[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "d07aad009ac2e58a667d5893e862ab362db02e1ba104aa2dfd65337afb3551e6"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "c72297485eeb8ce7464544b35c7b22814c84288ac7e3eb0c21cc9b2f636e0be1"
 metafile = true
 
 [[files]]
@@ -205,6 +235,11 @@ hash = "99b055a561787707364958cba2b5d4183130fd4d76b778469e4b69621d0ce066"
 metafile = true
 
 [[files]]
+file = "mods/choicetheorems-overhauled-village.pw.toml"
+hash = "4ee4b7abc4bebd0d3c9a94a0ae0de701d334d48d6a18ca23fd2bc4655699986d"
+metafile = true
+
+[[files]]
 file = "mods/chunk-loaders.pw.toml"
 hash = "4c37b1d65392995d88bb149ecd2d23db209c808954318d3be0cddfd1a1c3536a"
 metafile = true
@@ -225,6 +260,11 @@ hash = "5880c81df1af395ec3762eff4e98c78f7b75e62db67e1d191a1772d79aabc073"
 metafile = true
 
 [[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "1e962fcff7e64f2346dddb8567f8e40fa336c45c15ea9cd2b4434ade742ba4db"
+metafile = true
+
+[[files]]
 file = "mods/coins-je.pw.toml"
 hash = "9585efdd3a3de9ec310bce1b1069fc3cf0ce8241a98acc2d18d0ad178828ba22"
 metafile = true
@@ -232,6 +272,11 @@ metafile = true
 [[files]]
 file = "mods/colorfulazaleas.pw.toml"
 hash = "fad037d049336e2925f0ed29745fd97abb5cf2ee95786ad3ba9e6b2707349374"
+metafile = true
+
+[[files]]
+file = "mods/combat-roll.pw.toml"
+hash = "2400972fb3981e83abd6ca858f4d300e880709c5085c00969cd5c49bbd641f6f"
 metafile = true
 
 [[files]]
@@ -320,6 +365,11 @@ hash = "ae6c6065d5198b87f55d3f2981fcf9d95e114d4303db6129f6d4d294b05d30b0"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "130ffcb310a5d51431fa7b5f9a54e664dae2ae8b0a24c7ac83556162e16ca4ad"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "fdeab9633fc995e4910a08d6d8110a258f30b37c7a65128b8d6a46af797df3a0"
 metafile = true
@@ -345,6 +395,11 @@ hash = "32919ba2d15d55cec37bc8759064e1983e9a917c3ccfe25c4ad880cbf0a7026b"
 metafile = true
 
 [[files]]
+file = "mods/ensorcellation.pw.toml"
+hash = "2a95ebc9c17c85829a519d64a091fa9f670b47581d1156218acc08234b74a0d1"
+metafile = true
+
+[[files]]
 file = "mods/environmental.pw.toml"
 hash = "d84b2241468deba7bf5cf40a9fbdc5bf5b7655f3ef7846e7f4e5e76c105e8a0c"
 metafile = true
@@ -352,6 +407,11 @@ metafile = true
 [[files]]
 file = "mods/experience-obelisk.pw.toml"
 hash = "c2d925598e48b203edc654adfdcf9681c32159cfa31c9f8080254bb69222d484"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "92f0a1d2b221021d2c0ab36d5c3e293f01a3a938b13d82bf82b997968f85faf4"
 metafile = true
 
 [[files]]
@@ -440,8 +500,18 @@ hash = "d4a628d9825577b6568d9b0a4337ee6e4647c3e9e7dc9e16fef3be1bab8b832e"
 metafile = true
 
 [[files]]
+file = "mods/guard-villagers.pw.toml"
+hash = "d50c3d071011a3b7fa8689c8acf61de5a3dee35bd25ad54cefd996abf34bf4cb"
+metafile = true
+
+[[files]]
 file = "mods/horsefix.pw.toml"
 hash = "5901ed7b621440e925402d61d40c0f4624413d458b91c2f4a8c89e0d2f79cc80"
+metafile = true
+
+[[files]]
+file = "mods/hunterillager.pw.toml"
+hash = "905c0749b0efc474c9b5fc332b9ade2392d314ed9eaf437a72c866f133c9102f"
 metafile = true
 
 [[files]]
@@ -480,6 +550,21 @@ hash = "755a8345636199e68830426bb03873a2395517d719c82dfb9a349d09fe970ea9"
 metafile = true
 
 [[files]]
+file = "mods/irons-rpg-tweaks.pw.toml"
+hash = "db46fe7086669220408e72031be66234add3038c133bd0d42e675b4fd01f9158"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "d01377667b4c3aad7ac4854dedc695021b36e4becaad1a796b893d043da8f1af"
+metafile = true
+
+[[files]]
+file = "mods/it-takes-a-pillage.pw.toml"
+hash = "fdb8c310c88b0b525682fd2442e45f3cfc4bf007bab0900b185e7a3074cc30ef"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons.pw.toml"
 hash = "f41cbd4e04d52ac715dc243fe0cd0df327de89a155d5c2145aa26ba7667d43c8"
 metafile = true
@@ -512,11 +597,6 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "33954ae0301e0b8e0ef26d775ff0d2125d7824ba238f8c732fbeaa0e0471f58b"
-metafile = true
-
-[[files]]
-file = "mods/lapis-reserve.pw.toml"
-hash = "92a593afc5f1c188a65c5cf451eeb9bfe0d34f4d5354258e337ada2c0d8b701f"
 metafile = true
 
 [[files]]
@@ -570,6 +650,11 @@ hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
 metafile = true
 
 [[files]]
+file = "mods/mutil.pw.toml"
+hash = "39f4bf26ebf5e0b985d1857dcd3f1fc4cc38093b08c2835a057e41e1a6aa21b3"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "63800317329d340d3550b00dda4fecb2861cc6a643c2390d34f446c550ff9f06"
 metafile = true
@@ -595,6 +680,11 @@ hash = "2584078440b47a3066e42a2d869d22715e486256e1d3ec5142008e2273f75860"
 metafile = true
 
 [[files]]
+file = "mods/paragliders.pw.toml"
+hash = "14f2b768e36c2d01698ebe5512f1045827ec673340b0e62525079ced1f1b4f15"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "e0cbe5dbdbece52f9471e318cabec09569b95c35ed72e568b015e2d9c5d3c9dc"
 metafile = true
@@ -607,6 +697,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "306cbb32a5e21015ea1e6e79f2175bff33213abd18af4403e4b9bc72adf4e28d"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "0a2eb7f0b4f837c580350b1105001f43a272ac15868d845cca544d5a5380494f"
 metafile = true
 
 [[files]]
@@ -650,6 +745,11 @@ hash = "3ef9dc22d90a53d4b20b1b26190d58b21a2639b8b20f7d295de4ea3b03e13f30"
 metafile = true
 
 [[files]]
+file = "mods/raided.pw.toml"
+hash = "2a7ce4a1d99ab2071477e45410b077f7199b0fe87b8f0874c57bddf775fe1ce1"
+metafile = true
+
+[[files]]
 file = "mods/rebind-narrator.pw.toml"
 hash = "f763a446dd3eec21d454f2bb9f8fa2175d3991d8e34a86f4e2baaaddb4b35a0f"
 metafile = true
@@ -680,6 +780,11 @@ hash = "4184c1ab488b34f8b77837645f513e2846666a84cf82deeda7719c70a4f8a24e"
 metafile = true
 
 [[files]]
+file = "mods/scannable.pw.toml"
+hash = "5e2d065192f522470a9a78987c66c979faa2c908bb0328def7ac48da5b23fe1e"
+metafile = true
+
+[[files]]
 file = "mods/second-chance-forge.pw.toml"
 hash = "81b6edd6b14a3fb29a5a0e62f2c6d465972c6e52844c372a08d599c3bb6334c7"
 metafile = true
@@ -687,6 +792,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "ac044748ca461791a080a4f1259451bc4ab258851fab9cc282e7a7c23ec86bcf"
+metafile = true
+
+[[files]]
+file = "mods/shield-expansion.pw.toml"
+hash = "66c6b19db9def126683e37479efc79b9af74826d91105fc1e946db591628ef05"
 metafile = true
 
 [[files]]
@@ -745,6 +855,16 @@ hash = "ca83d6d210d1d289fc8999c481a778a3edcf4228c9de3d280cfd86012868e30f"
 metafile = true
 
 [[files]]
+file = "mods/tetra.pw.toml"
+hash = "239903854f201b23dfdc6cebd117f8d710db8796338ddaa02f42a4663f4e4db3"
+metafile = true
+
+[[files]]
+file = "mods/tetratic-combat.pw.toml"
+hash = "96dbda13567a155bb20a9c78bffb5f580a2d18ab6c5c19a2020b2c22bf23210c"
+metafile = true
+
+[[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
 hash = "a34ea2b0e9f3e37d5b23c8569be442cb1554ad08aef9dcf4400390da1eb86994"
 metafile = true
@@ -770,6 +890,11 @@ hash = "2d6ae9336d21ea6a268a442acc932ebf2915ca0bbeb62c75facb8494815858b9"
 metafile = true
 
 [[files]]
+file = "mods/towers-of-the-wild-additions.pw.toml"
+hash = "5b6ec7ed7d081042d62c0fcd3f004c79aa12aba3e4ba891474942930b80f0c29"
+metafile = true
+
+[[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "38cee16f00ed950e1f245f9de86dfbff938125f0461ad326fa81f659724a5d84"
 metafile = true
@@ -787,6 +912,11 @@ metafile = true
 [[files]]
 file = "mods/wall-jumping.pw.toml"
 hash = "87f0797e79aff67643824ecb5262d4ca1d4ba0c5eb88b2858fa6a1b9a0d4c253"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "5d2ca495ef1faa94e3d8939f9388d7666a962d98c6d6dde085350d2aeac52367"
 metafile = true
 
 [[files]]
