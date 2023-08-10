@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "8dfd5ae806895ee6036176990fafede8e5e8d9081f14b9ce241bbc86c79e883c"
+hash = "9129b8506009ba000fa1449707b3964272a58a95368ab97bc652ea94ce6884ae"
 metafile = true
 
 [[files]]
@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "57696bf1ef1e118c4386771e0b9bc9c8fc64a59b20acadd7ed232e705f4111b9"
+hash = "974f7492e1557e17a5aceadf5d0094d6e57ea6cf3da56ec306922b339cc3dba4"
 metafile = true
 
 [[files]]
@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "da3c3b8b5ae30b1b9e9ecab4b77ce2829bfd94b97bec4b2745f5ba8dea40c9e2"
+hash = "224dc68333b17b52fbb9e2b69bf67c1b919fcac1125d9bbeae8c8c6613766bfa"
 metafile = true
 
 [[files]]
