@@ -101,6 +101,298 @@ file = "kubejs/assets/prettypipes/textures/block/pipe.png"
 hash = "7dae625b42f83857a65caa95c41b3cb560a7ec1c6572c34b4390373f086b68bc"
 
 [[files]]
+file = "kubejs/data/totw_reworked/advancements/derelict_grass_tower.json"
+hash = "dcdeb495be21264ba7d868880dcc3eee8ff70f32e8187d6c25988d95c10b18ab"
+
+[[files]]
+file = "kubejs/data/totw_reworked/advancements/derelict_tower.json"
+hash = "cfc39ddef3b23f52eed48b274fe36d6119f2f7d8b681295ce45e78ac192db35e"
+
+[[files]]
+file = "kubejs/data/totw_reworked/advancements/ice_tower.json"
+hash = "8afa12e21caa2b59cb7def3b78a1031665b0aceca4f1a4b9acddc081d9ae7cc1"
+
+[[files]]
+file = "kubejs/data/totw_reworked/advancements/jungle_tower.json"
+hash = "0570b1f58767281e49edcd486847a0f11d69d9deb7cc5b22a4af2a739a3a7732"
+
+[[files]]
+file = "kubejs/data/totw_reworked/advancements/ocean_tower.json"
+hash = "7bd67ffbb2b92e7c28446dec847e9886101544d876a612e8440636a9d5f686d7"
+
+[[files]]
+file = "kubejs/data/totw_reworked/advancements/ocean_warm_tower.json"
+hash = "b4406315ec6ec816eef5d4a197a421a5018f156887d450fd38fff4abec73b1f3"
+
+[[files]]
+file = "kubejs/data/totw_reworked/advancements/regular_tower.json"
+hash = "52d6b527b87f99d9bdad342c6f5930b6920746e7c203c3106ac4c88305e8bf02"
+
+[[files]]
+file = "kubejs/data/totw_reworked/advancements/root.json"
+hash = "f7b1739447e161db787f3bcc6a49b95d886a5be13454b9e61f5fd3361d1d2278"
+
+[[files]]
+file = "kubejs/data/totw_reworked/loot_tables/ocean_tower_chest.json"
+hash = "57e2b65125ae10ea4d43eb257b14fdfc97da5f94d53fc5101affde4840dc007b"
+
+[[files]]
+file = "kubejs/data/totw_reworked/loot_tables/tower_chest.json"
+hash = "8fff1ca7c6938d6659167538717629b232fa430b974644c87f9cef67a1466164"
+
+[[files]]
+file = "kubejs/data/totw_reworked/structures/derelict/derelict_tower_bottom.nbt"
+hash = "5e6b1d3f56358d709f217c02544022042a04cb550ceb4c4b63d3d3b095c048fb"
+
+[[files]]
+file = "kubejs/data/totw_reworked/structures/derelict/derelict_tower_top.nbt"
+hash = "850a38bdbb501c8ea54775d98b28b381b41cb3cbf7c3dcd93dd96b47da1b9d1f"
+
+[[files]]
+file = "kubejs/data/totw_reworked/structures/derelict/fwaystones_derelict_tower_top.nbt"
+hash = "a6d58f4c37b6b396823b93d73d0e18134cd8366005ac7fe35e80a64f483f055b"
+
+[[files]]
+file = "kubejs/data/totw_reworked/structures/derelict/waystone_derelict_tower_top.nbt"
+hash = "ddce3b96ace04148c418b390346adf0604e78e8844b1929a1a3a0f2a0b4830c8"
+
+[[files]]
+file = "kubejs/data/totw_reworked/structures/derelict_grass/derelict_grass_tower_bottom.nbt"
+hash = "9d8e8ac0a25f776fd45230f39e33c74db3267c16a79ab571d3b9b7d035ccae7a"
+
+[[files]]
+file = "kubejs/data/totw_reworked/structures/derelict_grass/derelict_grass_tower_top.nbt"
+hash = "3976a71440f6f1b1f5fdb7a85c35fc4d31c563de3dbb5510cc758b90b4402d60"
+
+[[files]]
+file = "kubejs/data/totw_reworked/structures/derelict_grass/fwaystones_derelict_grass_tower_top.nbt"
+hash = "bf34574074f89234091487d142b7e50c469aea5aabec152375b28b16a5ba7a01"
+
+[[files]]
+file = "kubejs/data/totw_reworked/structures/derelict_grass/waystone_derelict_grass_tower_top.nbt"
+hash = "c4033fed6746938f26ac41f92dab461d3b3a2d603ce1cdfcc8657cfc9937c4a6"
+
+[[files]]
+file = "kubejs/data/totw_reworked/structures/ice/fwaystones_ice_tower_top.nbt"
+hash = "e09669653b559111646d1deab686823b1bda4c45ea66115bcbe21e4e95014f8c"
+
+[[files]]
+file = "kubejs/data/totw_reworked/structures/ice/ice_tower_bottom.nbt"
+hash = "969dc3ab5a65d83642b02224274fad2b6f72baed2183c7b9b1d4f416e7a3f4d8"
+
+[[files]]
+file = "kubejs/data/totw_reworked/structures/ice/ice_tower_top.nbt"
+hash = "1879dc58521394ac24f860a2bcba5c137c2643b07832b82dc16e19ab54c73974"
+
+[[files]]
+file = "kubejs/data/totw_reworked/structures/ice/waystone_ice_tower_top.nbt"
+hash = "9260d786fb26ef8cd5d57932acede1af24761f87d73b9458b235978554c1ee15"
+
+[[files]]
+file = "kubejs/data/totw_reworked/structures/jungle/fwaystones_jungle_tower_top.nbt"
+hash = "3645df89ffed5bbc87d7e46541beae91b2b301548aad145af8e5ae02950e93a9"
+
+[[files]]
+file = "kubejs/data/totw_reworked/structures/jungle/jungle_tower_bottom.nbt"
+hash = "2a6008e00a788d053d6cf2654801c6486cebdffcd616f10096bf94e041639bc5"
+
+[[files]]
+file = "kubejs/data/totw_reworked/structures/jungle/jungle_tower_top.nbt"
+hash = "59cff930681c551e3b1e8dd48f28de6c0323186832461991b1f13629c3179034"
+
+[[files]]
+file = "kubejs/data/totw_reworked/structures/jungle/waystone_jungle_tower_top.nbt"
+hash = "09ebd1f613cf40b484bc0283a62d852397de0acb5562c18764d384acaae38146"
+
+[[files]]
+file = "kubejs/data/totw_reworked/structures/ocean/fwaystones_ocean_tower_top.nbt"
+hash = "02ea42791a6e620c9b576aa4ec6d47203f40f5ddb5cab9b8159bc93d0671b42e"
+
+[[files]]
+file = "kubejs/data/totw_reworked/structures/ocean/ocean_tower_bottom.nbt"
+hash = "c619103d0dbaa736b4882b3fe17a1e6494ac993d83946e592e5052f6f6ff7b85"
+
+[[files]]
+file = "kubejs/data/totw_reworked/structures/ocean/ocean_tower_top.nbt"
+hash = "af73aee116b301f631bc8e833bbd6c604fffd209c2934c0bae567d615829996e"
+
+[[files]]
+file = "kubejs/data/totw_reworked/structures/ocean/waystone_ocean_tower_top.nbt"
+hash = "1dd9dfc5e377a97689e564e1c581eb178a9542699fc6126f9c51590fee32b7a3"
+
+[[files]]
+file = "kubejs/data/totw_reworked/structures/ocean_warm/fwaystones_ocean_warm_tower_top.nbt"
+hash = "9c4ff4a678e14a6c7c4b42f3adc1d8c4a29a88f2dd48baff5aff4a9935ff04cd"
+
+[[files]]
+file = "kubejs/data/totw_reworked/structures/ocean_warm/ocean_warm_tower_bottom.nbt"
+hash = "378cbc27fffedd8050bf99136dbbe4c3772e4556e60fd7905e966cab530b14bd"
+
+[[files]]
+file = "kubejs/data/totw_reworked/structures/ocean_warm/ocean_warm_tower_top.nbt"
+hash = "6a3bd6a1a535372fae1a3cd02b3629e86509ae6ef6bbb8b54d19d45ba2709d2c"
+
+[[files]]
+file = "kubejs/data/totw_reworked/structures/ocean_warm/waystone_ocean_warm_tower_top.nbt"
+hash = "0cf9e59648415b38da0c5de6e42007f42ca154066cc0b7a5479f1266fc3b7eda"
+
+[[files]]
+file = "kubejs/data/totw_reworked/structures/regular/fwaystones_tower_top.nbt"
+hash = "8a6b520d87c31cbb7e1537cd4415e7ffe3ecf5b6b67a9434a1678f94ae3e68ae"
+
+[[files]]
+file = "kubejs/data/totw_reworked/structures/regular/tower_bottom.nbt"
+hash = "0884fe18d24c04c993ba9854be01f273f600ffcaee1a1c442c0cdce6ba02a073"
+
+[[files]]
+file = "kubejs/data/totw_reworked/structures/regular/tower_top.nbt"
+hash = "a7a0f3c40661cb24cf3b113594a2f774ccd05f292562422c949c1e268bb2fc69"
+
+[[files]]
+file = "kubejs/data/totw_reworked/structures/regular/waystone_tower_top.nbt"
+hash = "c610713a664b0055b97e943f6a4912d737650c81139e94cd0ae3435b816a9296"
+
+[[files]]
+file = "kubejs/data/totw_reworked/tags/worldgen/biome/has_structure/derelict_grass_tower.json"
+hash = "a9f4106bd1623525ed665bac41a57377b5eb28563f1933191b1e4330655d3c74"
+
+[[files]]
+file = "kubejs/data/totw_reworked/tags/worldgen/biome/has_structure/derelict_tower.json"
+hash = "30643fd040a9a242670fe898b144699cee424e695edf417609a61ad9903a2525"
+
+[[files]]
+file = "kubejs/data/totw_reworked/tags/worldgen/biome/has_structure/ice_tower.json"
+hash = "d188754a58136130f3ccac467e3a9b819e9d7aa289bafee802adb3269852b58c"
+
+[[files]]
+file = "kubejs/data/totw_reworked/tags/worldgen/biome/has_structure/jungle_tower.json"
+hash = "d5591ea7136a665b7682760ccd751aace55952d49e38c847e82f2487640e53e0"
+
+[[files]]
+file = "kubejs/data/totw_reworked/tags/worldgen/biome/has_structure/ocean_tower.json"
+hash = "4f5ac72db92727b2af1819a6c96d100510e6f61ae287a659804d96d00e06e871"
+
+[[files]]
+file = "kubejs/data/totw_reworked/tags/worldgen/biome/has_structure/ocean_warm_tower.json"
+hash = "da31b3a0ff0d006238a1fb1239787234fed16a4d31f3b9fbe2f9345c2be130ba"
+
+[[files]]
+file = "kubejs/data/totw_reworked/tags/worldgen/biome/has_structure/regular_tower.json"
+hash = "e22575d10e4569c75789679ad9c8ae95017583273c8ddab36198a322019bd0a7"
+
+[[files]]
+file = "kubejs/data/totw_reworked/worldgen/structure/derelict.json"
+hash = "307e2ec649604b51e644fffde0ef0f8d8326d926c847c40ca6e6f1f0c3d960ef"
+
+[[files]]
+file = "kubejs/data/totw_reworked/worldgen/structure/derelict_grass.json"
+hash = "f0f8e83282907c8613cd594486b0905b27f9f00d54aa0444b0bbb1857dd681e5"
+
+[[files]]
+file = "kubejs/data/totw_reworked/worldgen/structure/ice.json"
+hash = "1859eddd7c049492bf4e5196927badf53f436d306c6b171dd2955577970e4490"
+
+[[files]]
+file = "kubejs/data/totw_reworked/worldgen/structure/jungle.json"
+hash = "01f7d684476186edb00caca4e550506ad37df3151bfdd5823393c00f3560e701"
+
+[[files]]
+file = "kubejs/data/totw_reworked/worldgen/structure/ocean.json"
+hash = "6bf25eddf9d98055f75dd582abaefaecc4200c722e1937044adf23bf88ec698d"
+
+[[files]]
+file = "kubejs/data/totw_reworked/worldgen/structure/ocean_warm.json"
+hash = "1a90274cd7d80847d4539c31448492a43b4d9c21a9a0bf0b9ebc5ad6866fed99"
+
+[[files]]
+file = "kubejs/data/totw_reworked/worldgen/structure/regular.json"
+hash = "6a63abde51a11faad909584b47b7f3e9abd0379c0ae2d714610f4092d1cad6e2"
+
+[[files]]
+file = "kubejs/data/totw_reworked/worldgen/structure_set/derelict.json"
+hash = "c71056ad624d31f16c5abc9760a7d717895c3d7de70505c44fbd182cfa88fb47"
+
+[[files]]
+file = "kubejs/data/totw_reworked/worldgen/structure_set/derelict_grass.json"
+hash = "b64f05de48793109d9b9b058f5c113dc8e061e4b98aa14900240e102ad01f0ed"
+
+[[files]]
+file = "kubejs/data/totw_reworked/worldgen/structure_set/ice.json"
+hash = "e14f5d22750bbc68afc58a47c17cce6e255072797095100938c53a9790dc10cc"
+
+[[files]]
+file = "kubejs/data/totw_reworked/worldgen/structure_set/jungle.json"
+hash = "6756fe6be4457800d952fbd36cae4c07078f0b5d27630b731abc60194553ea60"
+
+[[files]]
+file = "kubejs/data/totw_reworked/worldgen/structure_set/ocean.json"
+hash = "2e3e1705e460b0696fbe1036136fd4ab394f4dac9a17b24c8a85316104fa8c56"
+
+[[files]]
+file = "kubejs/data/totw_reworked/worldgen/structure_set/ocean_warm.json"
+hash = "a68e852a77e2e637360733f41db345375b33108105b26afd13f0566fd8928da2"
+
+[[files]]
+file = "kubejs/data/totw_reworked/worldgen/structure_set/regular.json"
+hash = "edf175744e1aaac248d0b6e7cf61d6e31d61767f1d9c06c4d28306c4fee282b7"
+
+[[files]]
+file = "kubejs/data/totw_reworked/worldgen/template_pool/derelict/bottom.json"
+hash = "fcf660badff6d14689363565b35a7bb7d1a3706d3153a2d34a2ca3cae044d79c"
+
+[[files]]
+file = "kubejs/data/totw_reworked/worldgen/template_pool/derelict/top.json"
+hash = "f233cf02f8964471b31ca2d996a44cff7214fce32e27be0266e4aad6c09ba9b4"
+
+[[files]]
+file = "kubejs/data/totw_reworked/worldgen/template_pool/derelict_grass/bottom.json"
+hash = "9bcf668f8d7c2139ca06cc9ce937caf7eaf8563c2ef232e74709fe5c28f8652b"
+
+[[files]]
+file = "kubejs/data/totw_reworked/worldgen/template_pool/derelict_grass/top.json"
+hash = "f0246b4ef31c1dad14686f9b6068f2e539f41417bcafdcea77a6f32ef739d48d"
+
+[[files]]
+file = "kubejs/data/totw_reworked/worldgen/template_pool/ice/bottom.json"
+hash = "f00a01d2e2a56dd970707e4d667938c0004b59d5dfdd655bf02a2ffaa87f2666"
+
+[[files]]
+file = "kubejs/data/totw_reworked/worldgen/template_pool/ice/top.json"
+hash = "ea6692459bcc252d5522ce30146c7158970f4d94ba72111de2b49b5830ad6e78"
+
+[[files]]
+file = "kubejs/data/totw_reworked/worldgen/template_pool/jungle/bottom.json"
+hash = "d60f978de20abddcf8e99b2d6eaa32b8e058b13317265a3e607f4fafc4ddd557"
+
+[[files]]
+file = "kubejs/data/totw_reworked/worldgen/template_pool/jungle/top.json"
+hash = "f2dc3fd058ef28ae464a0ffa76b4ea7ca249810e533461503148573adfb5813c"
+
+[[files]]
+file = "kubejs/data/totw_reworked/worldgen/template_pool/ocean/bottom.json"
+hash = "d3a462700f5b5e03e0317b5eed9499518f8458490c911b6593322b94e67bf497"
+
+[[files]]
+file = "kubejs/data/totw_reworked/worldgen/template_pool/ocean/top.json"
+hash = "067f41ffab0c06852294835f99a0e16598fb4e979b60e00d26ef5dac5f7749c0"
+
+[[files]]
+file = "kubejs/data/totw_reworked/worldgen/template_pool/ocean_warm/bottom.json"
+hash = "8617508bdfc2ea9880f3cd6a51b4a41406083793efc2486d800509baf15c04e5"
+
+[[files]]
+file = "kubejs/data/totw_reworked/worldgen/template_pool/ocean_warm/top.json"
+hash = "56fc7330d61b7aeb684fbba1d16bfaadb671e7bc74c9d77516deb03aae645c2f"
+
+[[files]]
+file = "kubejs/data/totw_reworked/worldgen/template_pool/regular/bottom.json"
+hash = "b2d80479de85e23af1e18a9bbc366394be0ea9c0c196f7232c567f62f42c2554"
+
+[[files]]
+file = "kubejs/data/totw_reworked/worldgen/template_pool/regular/top.json"
+hash = "e0b77d58e5fee47d3019fbbae338d7561c13a4de63848119d22edbe199537e25"
+
+[[files]]
 file = "kubejs/server_scripts/coinsje.js"
 hash = "41e14d0f8d6871d5dbb8451712a10a30af9cdd2cb580f1b4d4e19213373a7c43"
 
@@ -182,6 +474,11 @@ metafile = true
 [[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "a88250ec382bd3aa224e11b803500a56d84b2c103f56834ef7ecb6eab938c24f"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "d6e632815eec579cf9763057f706a5a4eae2dd9237601e63b4c32bc57ac90338"
 metafile = true
 
 [[files]]
