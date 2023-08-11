@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "827c811fa217c626719b63a1e6e33d9fcdbdddc279ac7dc53f507cfb89d3a11a"
+
+[[files]]
+file = "config/apotheosis/apotheosis.cfg"
+hash = "cf0fd41e332918f0ad0a65dad6da3539360408d25352d2404fabcfa638fa9b9b"
+
+[[files]]
+file = "config/apotheosis/potion.cfg"
+hash = "cfaf4a3f6a283b1758b5dd503d606d45c90d9415342052e33424d09e0db0e248"
+
+[[files]]
+file = "config/bcc-common.toml"
+hash = "4db9a919ea0f51dc2716d87918c5348176449da0a45fdc6b9360ceb234713ab0"
+
+[[files]]
 file = "config/callablehorses-common.toml"
 hash = "cc8875b830f06af0cb6bd06c8f9bcdfa56006d94bd72821fd196b832075b94db"
 
@@ -19,6 +35,14 @@ hash = "7437bbdab8eef5154317773f42cd409f189def0a7643d8bf7519579d72a8a981"
 [[files]]
 file = "config/ftbbackups2.json"
 hash = "0341375841065821f84377d18765d68ab8e40d8dd95e7859ee5cb1cf81f2c37a"
+
+[[files]]
+file = "config/gtceu.yaml"
+hash = "6fd7de2a59a238660cbb41655a92f29a4dae024086d2dc6d5eb08df49c9fc18a"
+
+[[files]]
+file = "config/inventoryhud-client.toml"
+hash = "5ef3a246bf7a0a51f1c346295cbb816ae896e24d72c53e4a4b42c6f041ed8bbb"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
@@ -41,12 +65,24 @@ file = "config/jade/sort-order.json"
 hash = "9deac508f053165cc52e509f07ca4fe68c5b1be33c90adae1eb05493cc694f1a"
 
 [[files]]
+file = "config/pneumaticcraft-common.toml"
+hash = "52578f6310202b7dfee215f4afac63eea2d3a14270eb0ad3ae51c04a352e4837"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "0a5a8877f6e389f31a970704c0a7b19a1c6ceaeb1728bc23023f11e40dbad302"
 
 [[files]]
 file = "config/savage_and_ravage-common.toml"
 hash = "992353d0c9dc9e9555ee367d62a937b59ac38bb8c9011152393292cc6caaa854"
+
+[[files]]
+file = "config/scannable-common.toml"
+hash = "a8c7cfd85d9d33613dc6dae051dcda86d87a7f0198797656a15bd04bd9fb2661"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "d5e6fc78d6c324ddd4735ac934e0dd6045d18b600f882e51a81ea0f8eb256d27"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -59,6 +95,14 @@ hash = "c9fd563feb48f49f19b737cd966475c4f1071b958a928045ef9992b60fed0c97"
 [[files]]
 file = "defaultconfigs/create-server.toml"
 hash = "fd03cae12f9655bb1a9851a9ef1c877d960e0bbc0789e1dd4bb5d4627c340a49"
+
+[[files]]
+file = "defaultconfigs/irons_rpg_tweaks-server.toml"
+hash = "9c37c6bcd381222b521e70be5b9220039dbbfdb9d1a318b4c96c027b807c8026"
+
+[[files]]
+file = "defaultconfigs/paraglider-server.toml"
+hash = "e0a0db5f01643f9e507e159a3dd63c2fb4b212dda5ded84b39f099c16e675b24"
 
 [[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"
@@ -411,6 +455,10 @@ hash = "38911dbb3b81bf4599f42e210ab07630e55799023f840d26e5880b98f40c4917"
 [[files]]
 file = "kubejs/server_scripts/travel_anchors.js"
 hash = "66842f03a2aab4bd87d5888baba8494c1b73e84458ffc199fceb55b0ef770e9e"
+
+[[files]]
+file = "kubejs/server_scripts/waystones.js"
+hash = "63cc6085f7d051556748faf21da54e15730116edf72bb26c13073b5dbccaf079"
 
 [[files]]
 file = "kubejs/server_scripts/woodcompat.js"
