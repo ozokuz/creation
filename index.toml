@@ -25,6 +25,10 @@ file = "config/carryon-common.toml"
 hash = "bed1f378722690954130ac405528c30a2bad538f43f6973cea818c1cab61c0aa"
 
 [[files]]
+file = "config/cofh_core-client.toml"
+hash = "93fddb1036fd280c710be18a2ab89d9bcb2171a795a37743ab0c1648488e73b4"
+
+[[files]]
 file = "config/emi.css"
 hash = "0884c26b934d902d2f729f2008016db22d60079c3e9c4ecd3dcd5372517019b7"
 
@@ -63,6 +67,10 @@ hash = "5a12d7d1f4b9cc82b75d41c9bb43eccff4ab765ecdfffed4906802509f4f63ee"
 [[files]]
 file = "config/jade/sort-order.json"
 hash = "9deac508f053165cc52e509f07ca4fe68c5b1be33c90adae1eb05493cc694f1a"
+
+[[files]]
+file = "config/molten_vents-common.toml"
+hash = "18e2250e4709fd1457ac689a18d58d7f189004687ce72fe49c1d9ad65e89de20"
 
 [[files]]
 file = "config/pneumaticcraft-common.toml"
@@ -143,6 +151,14 @@ hash = "d59dd0507b6ac7897a97600d69004781aebc118fe83f16eba03e4bbced08ace9"
 [[files]]
 file = "kubejs/assets/prettypipes/textures/block/pipe.png"
 hash = "7dae625b42f83857a65caa95c41b3cb560a7ec1c6572c34b4390373f086b68bc"
+
+[[files]]
+file = "kubejs/data/irons_spellbooks/advancements/grant_patchouli.json"
+hash = "40a5c4a07e995e3007f249257adc2a700614bd4c41e232c98ddfb4fcd11f5fa8"
+
+[[files]]
+file = "kubejs/data/simplyswords/advancements/grant_book_on_first_join.json"
+hash = "40a5c4a07e995e3007f249257adc2a700614bd4c41e232c98ddfb4fcd11f5fa8"
 
 [[files]]
 file = "kubejs/data/totw_reworked/advancements/derelict_grass_tower.json"
