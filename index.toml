@@ -482,7 +482,7 @@ hash = "f2a89dadda3c4f9c23d4e74d5a950e44328c4143b2e35aa27709c182b8dafbe1"
 
 [[files]]
 file = "mods/apotheosis.pw.toml"
-hash = "2b9110a630393ecd0cfe096ac8799d2bb3ee00743ca927a2e610e6f71be359a9"
+hash = "0483debb252f63301ceec8fc7bc3e07709d820ef80ed131eee0944c046cb398a"
 metafile = true
 
 [[files]]
@@ -807,7 +807,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "58ecf8f9d6818c9c64c30decdd0126c2b3001539b56e001cf6120879863e8a05"
+hash = "ed91abb9f64bc449365265060c6f5a3b4cd313e367c8d41ff196e6f0bee3ccb4"
 metafile = true
 
 [[files]]
@@ -882,7 +882,7 @@ metafile = true
 
 [[files]]
 file = "mods/guard-villagers.pw.toml"
-hash = "d50c3d071011a3b7fa8689c8acf61de5a3dee35bd25ad54cefd996abf34bf4cb"
+hash = "3b3739f367fb61f9f88e319cb6295c2c25227b860adac2c6d84dc829efefa46a"
 metafile = true
 
 [[files]]
@@ -952,7 +952,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "d01377667b4c3aad7ac4854dedc695021b36e4becaad1a796b893d043da8f1af"
+hash = "01b5707c7dd9cf651d63bedd33f4946d11d1c49208a0d8a7241b4138dff5089f"
 metafile = true
 
 [[files]]
@@ -1217,7 +1217,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "ac044748ca461791a080a4f1259451bc4ab258851fab9cc282e7a7c23ec86bcf"
+hash = "ec19ef2adf6994632d4fc25b6ed1a2ad1a0c996aa364b78d5aba1bd7b5d74f2e"
 metafile = true
 
 [[files]]
@@ -1227,7 +1227,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
-hash = "7b34fbdf04e61cc4870d3c27cd995b4b6fb2b766eaa6cae539599c44a3ab76b8"
+hash = "f09b8dd9df72e507cbeb70119bd9c1c41cafde5e4806b7205ba82219591187e7"
 metafile = true
 
 [[files]]
@@ -1302,7 +1302,7 @@ metafile = true
 
 [[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
-hash = "a34ea2b0e9f3e37d5b23c8569be442cb1554ad08aef9dcf4400390da1eb86994"
+hash = "da5124cfc1b3dca35edcd43c4726acc7a30a078da7801423da339c0a68721fc0"
 metafile = true
 
 [[files]]
