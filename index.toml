@@ -951,11 +951,6 @@ hash = "755a8345636199e68830426bb03873a2395517d719c82dfb9a349d09fe970ea9"
 metafile = true
 
 [[files]]
-file = "mods/irons-rpg-tweaks.pw.toml"
-hash = "db46fe7086669220408e72031be66234add3038c133bd0d42e675b4fd01f9158"
-metafile = true
-
-[[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "d01377667b4c3aad7ac4854dedc695021b36e4becaad1a796b893d043da8f1af"
 metafile = true
