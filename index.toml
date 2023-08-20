@@ -706,6 +706,11 @@ hash = "4c215d9c7699990fc8650fefbea4828d15c7d2ee741271b61b33cf1581aef737"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "b1765161b1cccabdaf8966d0b89ffed0a1c57c6b9c9bc0f57e90c993d5b7b508"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "911587b346ce501da20f4273e2cb1eba3a57ec99adf7adc8559a1686ce1ff59e"
 metafile = true
