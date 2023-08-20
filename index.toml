@@ -491,6 +491,11 @@ hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "cdc65d49eb4a1ebdffdab6eefa5c3ed90b1e32016a45b894a5cc431c109b7e3b"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "db0a6a9c7d7c84ff18029f21a083e445ace641b6568453ffeddc0c406a6673e9"
 metafile = true
@@ -771,6 +776,11 @@ hash = "32919ba2d15d55cec37bc8759064e1983e9a917c3ccfe25c4ad880cbf0a7026b"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-terminal.pw.toml"
+hash = "583decb6001738659f6bdccbf400d6f2e4a41353e108cfd26673ade9fbdee94f"
+metafile = true
+
+[[files]]
 file = "mods/ensorcellation.pw.toml"
 hash = "2a95ebc9c17c85829a519d64a091fa9f670b47581d1156218acc08234b74a0d1"
 metafile = true
@@ -783,6 +793,11 @@ metafile = true
 [[files]]
 file = "mods/equipment-compare.pw.toml"
 hash = "02630d53f5aba3980c32df918f68aa3d02e5e245937293c6c235d6a0056184f0"
+metafile = true
+
+[[files]]
+file = "mods/ex-pattern-provider.pw.toml"
+hash = "e08fc96a93cbf864e96053c1531e53249bf589780aeae0b9a588ebe649e2f563"
 metafile = true
 
 [[files]]
@@ -1038,6 +1053,16 @@ metafile = true
 [[files]]
 file = "mods/measurements.pw.toml"
 hash = "0f733fab14b7f42c6a41da147edf277a937a2c494c8c38ff6df4547fa3935df6"
+metafile = true
+
+[[files]]
+file = "mods/mega-cells.pw.toml"
+hash = "8edb7cbef0743f313f114b135bbd79f8628c190e4c363f4306aba217a75a9f6a"
+metafile = true
+
+[[files]]
+file = "mods/merequester.pw.toml"
+hash = "504696897a6d720a4a78b110f5b2b73ef6fbb8b403ccb14bd2f1f1c17e248427"
 metafile = true
 
 [[files]]
