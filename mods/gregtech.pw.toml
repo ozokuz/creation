@@ -1,7 +1,7 @@
 name = "gregtech"
-filename = "gtceu-forge-1.19.2-1.0.11-build_142.jar"
+filename = "gtceu-forge-1.19.2-1.0.11-build_144.jar"
 
 [download]
-url = "https://github.com/GregTechCEu/GregTech-Modern/releases/download/1.19.2-1.0.11-build_142/gtceu-forge-1.19.2-1.0.11-build_142.jar"
+url = "https://github.com/GregTechCEu/GregTech-Modern/releases/download/1.19.2-1.0.11-build_144/gtceu-forge-1.19.2-1.0.11-build_144.jar"
 hash-format = "sha256"
-hash = "f4389caa40569e5a51c24eb48b23bb062d32910430537d5a07da70416c3f5ae1"
+hash = "fa133e289ba64a1ed58c8addc8c80405400abcd9748908ca3509e852c218186b"
