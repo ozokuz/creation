@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
-hash = "827c811fa217c626719b63a1e6e33d9fcdbdddc279ac7dc53f507cfb89d3a11a"
+hash = "3932c79eb733b988893d88068d83b30d73eeb96324d9c4a5e1f6b80b0748a151"
 
 [[files]]
 file = "config/apotheosis/apotheosis.cfg"
