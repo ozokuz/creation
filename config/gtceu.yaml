@@ -103,6 +103,14 @@ worldgen:
   # Default: 0.5
   rubberTreeSpawnChance: 0.5
 
+  # Prevents regular vanilla ores from being generated outside GregTech ore veins
+  # Default: true
+  removeVanillaOreGen: false
+
+  # Prevents vanilla's large ore veins from being generated
+  # Default: true
+  removeVanillaLargeOreVeins: false
+
 machines:
   # Whether insufficient energy supply should reset Machine recipe progress to zero.
   # If true, progress will reset.
@@ -211,4 +219,3 @@ compat:
   # Whether Gregtech should remove smelting recipes from the vanilla furnace for ingots requiring the Electric Blast Furnace.
   # Default: true
   removeSmeltingForEBFMetals: true
-

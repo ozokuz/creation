@@ -42,7 +42,7 @@ hash = "0341375841065821f84377d18765d68ab8e40d8dd95e7859ee5cb1cf81f2c37a"
 
 [[files]]
 file = "config/gtceu.yaml"
-hash = "6fd7de2a59a238660cbb41655a92f29a4dae024086d2dc6d5eb08df49c9fc18a"
+hash = "99f5cd7a31eb7aaf295a805dbfacf75f57d2147723ae5fdd5ddfbd0808fb5b12"
 
 [[files]]
 file = "config/inventoryhud-client.toml"
