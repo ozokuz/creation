@@ -1045,6 +1045,11 @@ hash = "6ecdb29b8286ce932de61ebf2ea8233cd40046b2f0fce85992202cb07eabbba2"
 metafile = true
 
 [[files]]
+file = "mods/laserio.pw.toml"
+hash = "bbda27d3e070cbe2eec4740b93222694f0a86f50f74edde5f5b23d4c0f13f4c0"
+metafile = true
+
+[[files]]
 file = "mods/lazy-dfu-forge.pw.toml"
 hash = "4197e21b90ffc991b42fb07a8e2c55824ba30f66185688a1e63ddbbecd10937e"
 metafile = true
@@ -1082,11 +1087,6 @@ metafile = true
 [[files]]
 file = "mods/measurements.pw.toml"
 hash = "0f733fab14b7f42c6a41da147edf277a937a2c494c8c38ff6df4547fa3935df6"
-metafile = true
-
-[[files]]
-file = "mods/mega-cells.pw.toml"
-hash = "8edb7cbef0743f313f114b135bbd79f8628c190e4c363f4306aba217a75a9f6a"
 metafile = true
 
 [[files]]
