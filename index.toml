@@ -776,7 +776,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "ccbe936190ea4ae0b15d348de5f7c5501f1e5ff60216ffc9ca515e255611015f"
+hash = "a7772c1f7948e87e8adb3357b65277226fe454d670aa2268963729df075d1363"
 metafile = true
 
 [[files]]
@@ -981,7 +981,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "20a7ca6fa28dc5d895f20d058d79b46ebb8f64d9ceed9b79e2f31f17d16aac5e"
+hash = "2e81b4f2581a67282da5088fd98ba07d1d1a79a972b41fa09a29761906184d73"
 metafile = true
 
 [[files]]
@@ -1071,7 +1071,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "f2563731c68f89827061c27dd2bffb07023e69daf6ea7fb04bf3eea6d57e8992"
+hash = "49c76847794383842d3ca272e1c099b0a946f9103539cbd3b16a2b60b0544420"
 metafile = true
 
 [[files]]
@@ -1101,7 +1101,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "22075afa5c86c65955955290f02ee9668b782709397e01441b3dc17809f3222f"
+hash = "5a72bbe79e0019e6b40381c175db6bbee1288824b64f38950dd1bc3bb0fb98a7"
 metafile = true
 
 [[files]]
@@ -1241,7 +1241,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "a5b1cff7c66d98ad0d0c53903bdc5b802b4036268e56d9342a708274435343f8"
+hash = "a397268daa3488b900b3e49ae2675ef28d77bfadd5aa0168df69d234456657d2"
 metafile = true
 
 [[files]]
@@ -1326,7 +1326,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "37bd46aee9f110535261d6ff6c0f1ad7cdc6a38740120896209a92b2f27b20bc"
+hash = "1f20786408ae526f5df6a6cde7c04c4dd4afc2d87d5bc24a109687622f9db356"
 metafile = true
 
 [[files]]
@@ -1411,12 +1411,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "ae53467c316a53c4a9526a47c8a59d4dc015732a88af1107ebb19c5c87bc790f"
+hash = "b0dcda64c35e826885dc4a9585a60447fca3ed7d2ad8a306ffe17eba69dadd0b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "4b111f2acbca47e954eda403ed5ef6154385e5037f8213188941e2c418d69e7b"
+hash = "c70ef6fb6be05327abc90d818fb8241d9868522d308c35a8c8f334b1e67cd6cb"
 metafile = true
 
 [[files]]
