@@ -14,7 +14,7 @@ hash = "cfaf4a3f6a283b1758b5dd503d606d45c90d9415342052e33424d09e0db0e248"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "465b18fa5ad7c63706eeacada5a788f9975e90bac1ea3689d9ef956988ec1096"
+hash = "5c766c07afb445c527321f50332045bfff52f23bc590cac33257625bcc3e5d55"
 
 [[files]]
 file = "config/callablehorses-common.toml"
