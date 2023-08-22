@@ -456,7 +456,7 @@ ServerEvents.recipes((event) => {
     "ae2:crafting_unit",
     ["SCS", "FLF", "SCS"],
     {
-      S: "#forge:plates/steel",
+      S: "#forge:plates/aluminium",
       C: "ae2:calculation_processor",
       F: "ae2:fluix_glass_cable",
       L: "ae2:logic_processor",
@@ -469,7 +469,7 @@ ServerEvents.recipes((event) => {
     "ae2:molecular_assembler",
     ["SGS", "ACF", "SGS"],
     {
-      S: "#forge:plates/steel",
+      S: "#forge:plates/aluminium",
       G: "ae2:quartz_glass",
       A: "ae2:annihilation_core",
       C: "create:mechanical_crafter",
@@ -483,7 +483,7 @@ ServerEvents.recipes((event) => {
     "ae2:pattern_provider",
     ["SCS", "AMF", "SCS"],
     {
-      S: "#forge:plates/steel",
+      S: "#forge:plates/aluminium",
       C: "create:mechanical_crafter",
       A: "ae2:annihilation_core",
       M: "create:mechanical_arm",
@@ -497,7 +497,7 @@ ServerEvents.recipes((event) => {
     "merequester:requester",
     ["SIS", "CEC", "SSS"],
     {
-      S: "#forge:plates/steel",
+      S: "#forge:plates/aluminium",
       I: "#ae2:interface",
       C: "ae2:crafting_accelerator",
       E: "ae2:engineering_processor",
@@ -510,21 +510,21 @@ ServerEvents.recipes((event) => {
   event.remove({ output: "ae2:wireless_receiver" });
   event.recipes.minecraft.crafting_shaped(
     "ae2:wireless_receiver",
-    [" P ", "SFS", " S "],
+    [" P ", "SMS", " S "],
     {
       P: "ae2:fluix_pearl",
-      S: "#forge:plates/steel",
-      F: "ae2:quartz_fiber",
+      S: "#forge:plates/stainless_steel",
+      M: "gtceu:mv_sensor",
     }
   );
   // Wireless Booster Card
   event.remove({ output: "ae2:wireless_booster" });
   event.recipes.minecraft.crafting_shaped(
     "ae2:wireless_booster",
-    ["ECE", "SFS", " S "],
+    ["ELE", "SFS", " S "],
     {
       E: "#forge:dusts/ender_pearl",
-      C: "#forge:dusts/certus_quartz",
+      L: "gtceu:lv_emitter",
       S: "#forge:plates/steel",
       F: "ae2:fluix_crystal",
     }
@@ -548,13 +548,32 @@ ServerEvents.recipes((event) => {
     "ae2:quantum_ring",
     ["SLS", "ECD", "SLS"],
     {
-      S: "#forge:plates/steel",
+      S: "#forge:plates/titanium",
       L: "ae2:logic_processor",
       E: "ae2:engineering_processor",
       C: "ae2:energy_cell",
       D: "#ae2:smart_dense_cable",
     }
   );
+  // ME Quantum Link Chamber
+  event.remove({ output: "ae2:quantum_link" });
+  event.recipes.minecraft.crafting_shaped(
+    "ae2:quantum_link",
+    ["GPG", "PFP", "GPG"],
+    {
+      G: "ae2:quartz_glass",
+      P: "ae2:fluix_pearl",
+      F: "gtceu:mv_field_generator",
+    }
+  );
+
+  // Quantum Bridge Card
+  event.remove({ output: "ae2wtlib:quantum_bridge_card" });
+  event.recipes.minecraft.crafting_shapeless("ae2wtlib:quantum_bridge_card", [
+    "ae2:advanced_card",
+    "gtceu:mv_emitter",
+    "gtceu:mv_sensor",
+  ]);
 
   /* OTHER */
 
