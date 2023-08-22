@@ -571,6 +571,17 @@ ServerEvents.recipes((event) => {
     }
   );
 
+  // Enhanced Pattern Access Terminal
+  event.remove({ output: "eterminal:ex_pattern_access_part" });
+  event.recipes.minecraft.crafting_shapeless(
+    "eterminal:ex_pattern_access_part",
+    [
+      "ae2:pattern_access_terminal",
+      "ae2:logic_processor",
+      "minecraft:redstone_lamp",
+    ]
+  );
+
   // Basic Card
   event.remove({ output: "ae2:basic_card" });
   event.recipes.minecraft.crafting_shaped(
