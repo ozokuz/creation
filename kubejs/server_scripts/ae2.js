@@ -55,63 +55,60 @@ ServerEvents.recipes((event) => {
 
   // Presses
   // Logic Press
-  event.recipes.create
-    .deploying(
-      ["ae2:logic_processor_press"],
-      ["minecraft:iron_block", "ae2:logic_processor_press"]
-    )
-    .keepHeldItem();
-  /* event.recipes.gtceu
+  event.recipes.gtceu
     .forming_press("clone_logic_press")
     .notConsumable("ae2:logic_processor_press")
     .itemInputs("minecraft:iron_block")
-    .outputItems("ae2:logic_processor_press")
+    .itemOutputs("ae2:logic_processor_press")
     .duration(120)
-    .EUt(32); */
+    .EUt(22);
   // Calculation Press
-  event.recipes.create
-    .deploying(
-      ["ae2:calculation_processor_press"],
-      ["minecraft:iron_block", "ae2:calculation_processor_press"]
-    )
-    .keepHeldItem();
-  /* event.recipes.gtceu
+  event.recipes.gtceu
     .forming_press("clone_calculation_press")
     .notConsumable("ae2:calculation_processor_press")
     .itemInputs("minecraft:iron_block")
-    .outputItems("ae2:calculation_processor_press")
+    .itemOutputs("ae2:calculation_processor_press")
     .duration(120)
-    .EUt(32); */
+    .EUt(22);
   // Engineering Press
-  event.recipes.create
-    .deploying(
-      ["ae2:engineering_processor_press"],
-      ["minecraft:iron_block", "ae2:engineering_processor_press"]
-    )
-    .keepHeldItem();
-  /* event.recipes.gtceu
+  event.recipes.gtceu
     .forming_press("clone_engineering_press")
     .notConsumable("ae2:engineering_processor_press")
     .itemInputs("minecraft:iron_block")
-    .outputItems("ae2:engineering_processor_press")
+    .itemOutputs("ae2:engineering_processor_press")
     .duration(120)
-    .EUt(32); */
+    .EUt(22);
   // Silicon Press
-  event.recipes.create
-    .deploying(
-      ["ae2:silicon_press"],
-      ["minecraft:iron_block", "ae2:silicon_press"]
-    )
-    .keepHeldItem();
-  /* event.recipes.gtceu
+  event.recipes.gtceu
     .forming_press("clone_silicon_press")
     .notConsumable("ae2:silicon_press")
     .itemInputs("minecraft:iron_block")
-    .outputItems("ae2:silicon_press")
+    .itemOutputs("ae2:silicon_press")
     .duration(120)
-    .EUt(32); */
+    .EUt(22);
 
-  // Processor
+  // Printed
+  // Printed Logic Circuit
+  event.recipes.create
+    .deploying(
+      ["ae2:printed_logic_processor"],
+      ["#forge:ingots/electrum", "ae2:logic_processor_press"]
+    )
+    .keepHeldItem();
+  // Printed Calculation Circuit
+  event.recipes.create
+    .deploying(
+      ["ae2:printed_calculation_processor"],
+      ["#forge:gems/certus_quartz", "ae2:calculation_processor_press"]
+    )
+    .keepHeldItem();
+  // Printed Engineering Circuit
+  event.recipes.create
+    .deploying(
+      ["ae2:printed_engineering_processor"],
+      ["minecraft:diamond", "ae2:engineering_processor_press"]
+    )
+    .keepHeldItem();
   // Printed Silicon
   const incompleteSilicon = "kubejs:incomplete_printed_silicon";
   event.recipes.create
@@ -131,54 +128,64 @@ ServerEvents.recipes((event) => {
     ])
     .transitionalItem(incompleteSilicon)
     .loops(1);
+
+  // Processor
   // Processor Logic
   const incompleteLogic = "kubejs:incomplete_logic_processor";
   event.recipes.create
-    .sequenced_assembly(["ae2:logic_processor"], "#forge:ingots/electrum", [
-      event.recipes.create
+    .sequenced_assembly(
+      ["ae2:logic_processor"],
+      "ae2:printed_logic_processor",
+      [
+        /* event.recipes.create
         .deploying(
           [incompleteLogic],
           [incompleteLogic, "ae2:logic_processor_press"]
         )
-        .keepHeldItem(),
-      event.recipes.create.deploying(incompleteLogic, [
-        incompleteLogic,
-        "ae2:printed_silicon",
-      ]),
-      // event.recipes.create.pressing(incompleteLogic, incompleteLogic),
-      /* event.recipes.create.filling(incompleteLogic, [
-        incompleteLogic,
-        Fluid.water(250),
-      ]), */
-      event.recipes.create.deploying(incompleteLogic, [
-        incompleteLogic,
-        "#forge:wires/gold",
-      ]),
-      event.recipes.create.deploying(incompleteLogic, [
-        incompleteLogic,
-        "minecraft:redstone",
-      ]),
-      event.recipes.create.deploying(incompleteLogic, [
-        incompleteLogic,
-        "pneumaticcraft:plastic",
-      ]),
-      event.recipes.create.pressing(incompleteLogic, incompleteLogic),
-    ])
+        .keepHeldItem(), */
+        event.recipes.create.deploying(incompleteLogic, [
+          incompleteLogic,
+          "ae2:printed_silicon",
+        ]),
+        // event.recipes.create.pressing(incompleteLogic, incompleteLogic),
+        event.recipes.create.filling(incompleteLogic, [
+          incompleteLogic,
+          {
+            amount: 25,
+            fluid: "create:potion",
+            nbt: { Bottle: "REGULAR", Potion: "minecraft:swiftness" },
+          },
+        ]),
+        event.recipes.create.deploying(incompleteLogic, [
+          incompleteLogic,
+          "minecraft:redstone",
+        ]),
+        event.recipes.create.deploying(incompleteLogic, [
+          incompleteLogic,
+          "#forge:wires/copper",
+        ]),
+        event.recipes.create.deploying(incompleteLogic, [
+          incompleteLogic,
+          "immersiveengineering:plate_duroplast",
+        ]),
+        event.recipes.create.pressing(incompleteLogic, incompleteLogic),
+      ]
+    )
     .transitionalItem(incompleteLogic)
-    .loops(1);
+    .loops(4);
   // Processor Calculation
   const incompleteCalculation = "kubejs:incomplete_calculation_processor";
   event.recipes.create
     .sequenced_assembly(
       ["ae2:calculation_processor"],
-      "#forge:gems/certus_quartz",
+      "ae2:printed_calculation_processor",
       [
-        event.recipes.create
+        /* event.recipes.create
           .deploying(
             [incompleteCalculation],
             [incompleteCalculation, "ae2:calculation_processor_press"]
           )
-          .keepHeldItem(),
+          .keepHeldItem(), */
         event.recipes.create.deploying(incompleteCalculation, [
           incompleteCalculation,
           "ae2:printed_silicon",
@@ -187,13 +194,13 @@ ServerEvents.recipes((event) => {
           incompleteCalculation,
           incompleteCalculation
         ), */
-        /* event.recipes.create.filling(incompleteCalculation, [
+        event.recipes.create.filling(incompleteCalculation, [
           incompleteCalculation,
-          Fluid.water(250),
-        ]), */
-        event.recipes.create.deploying(incompleteCalculation, [
-          incompleteCalculation,
-          "#forge:wires/gold",
+          {
+            amount: 25,
+            fluid: "create:potion",
+            nbt: { Bottle: "REGULAR", Potion: "minecraft:fire_resistance" },
+          },
         ]),
         event.recipes.create.deploying(incompleteCalculation, [
           incompleteCalculation,
@@ -201,7 +208,11 @@ ServerEvents.recipes((event) => {
         ]),
         event.recipes.create.deploying(incompleteCalculation, [
           incompleteCalculation,
-          "pneumaticcraft:plastic",
+          "#forge:wires/gold",
+        ]),
+        event.recipes.create.deploying(incompleteCalculation, [
+          incompleteCalculation,
+          "immersiveengineering:plate_duroplast",
         ]),
         event.recipes.create.pressing(
           incompleteCalculation,
@@ -210,48 +221,56 @@ ServerEvents.recipes((event) => {
       ]
     )
     .transitionalItem(incompleteCalculation)
-    .loops(1);
+    .loops(4);
   // Processor Engineering
   const incompleteEngineering = "kubejs:incomplete_engineering_processor";
   event.recipes.create
-    .sequenced_assembly(["ae2:engineering_processor"], "minecraft:diamond", [
-      event.recipes.create
+    .sequenced_assembly(
+      ["ae2:engineering_processor"],
+      "ae2:printed_engineering_processor",
+      [
+        /* event.recipes.create
         .deploying(
           [incompleteEngineering],
           [incompleteEngineering, "ae2:engineering_processor_press"]
         )
-        .keepHeldItem(),
-      event.recipes.create.deploying(incompleteEngineering, [
-        incompleteEngineering,
-        "ae2:printed_silicon",
-      ]),
-      /* event.recipes.create.pressing(
+        .keepHeldItem(), */
+        event.recipes.create.deploying(incompleteEngineering, [
+          incompleteEngineering,
+          "ae2:printed_silicon",
+        ]),
+        /* event.recipes.create.pressing(
         incompleteEngineering,
         incompleteEngineering
       ), */
-      /* event.recipes.create.filling(incompleteEngineering, [
-        incompleteEngineering,
-        Fluid.water(250),
-      ]), */
-      event.recipes.create.deploying(incompleteEngineering, [
-        incompleteEngineering,
-        "#forge:wires/gold",
-      ]),
-      event.recipes.create.deploying(incompleteEngineering, [
-        incompleteEngineering,
-        "minecraft:redstone",
-      ]),
-      event.recipes.create.deploying(incompleteEngineering, [
-        incompleteEngineering,
-        "pneumaticcraft:plastic",
-      ]),
-      event.recipes.create.pressing(
-        incompleteEngineering,
-        incompleteEngineering
-      ),
-    ])
+        event.recipes.create.filling(incompleteEngineering, [
+          incompleteEngineering,
+          {
+            amount: 25,
+            fluid: "create:potion",
+            nbt: { Bottle: "REGULAR", Potion: "minecraft:swiftness" },
+          },
+        ]),
+        event.recipes.create.deploying(incompleteEngineering, [
+          incompleteEngineering,
+          "minecraft:redstone",
+        ]),
+        event.recipes.create.deploying(incompleteEngineering, [
+          incompleteEngineering,
+          "#forge:wires/electrum",
+        ]),
+        event.recipes.create.deploying(incompleteEngineering, [
+          incompleteEngineering,
+          "pneumaticcraft:plastic",
+        ]),
+        event.recipes.create.pressing(
+          incompleteEngineering,
+          incompleteEngineering
+        ),
+      ]
+    )
     .transitionalItem(incompleteEngineering)
-    .loops(1);
+    .loops(4);
 
   /* INGREDIENTS */
 
