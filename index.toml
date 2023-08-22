@@ -121,6 +121,22 @@ file = "kubejs/assets/kubejs/textures/block/fan.png"
 hash = "6c826dee8b5a4cda5e4b502e5a1da3e6ddfd66610bed5622c87910382eac5d8c"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_calculation_processor.png"
+hash = "2b461c7bb91342d93c351922ebbd6ff4573a25e0016a3f9039e4953815fd2502"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_engineering_processor.png"
+hash = "e086d1ac5b937104c8a5caa90267c44c6d68940806fae5b68f2699112e2bb979"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_logic_processor.png"
+hash = "f9bcad7b238d5d9414434b68459fb1f43b346b3792d2a2a77c084973a38c63af"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_printed_silicon.png"
+hash = "89cffd407460b43ff01de430072f408ba251d1ddb835f408e88fb462f1df7305"
+
+[[files]]
 file = "kubejs/assets/prettypipes/models/block/crafting_terminal.json"
 hash = "e926dba2958bf1d6a3622a76b7b6f23d31b78abecbd3f77702f1cfc8b75ca8b3"
 
@@ -453,6 +469,10 @@ file = "kubejs/data/totw_reworked/worldgen/template_pool/regular/top.json"
 hash = "e0b77d58e5fee47d3019fbbae338d7561c13a4de63848119d22edbe199537e25"
 
 [[files]]
+file = "kubejs/server_scripts/ae2.js"
+hash = "a318211d9f72e9538587dfa282a6566fe8c9b1bdab82c71c1c35baa834753a91"
+
+[[files]]
 file = "kubejs/server_scripts/coinsje.js"
 hash = "41e14d0f8d6871d5dbb8451712a10a30af9cdd2cb580f1b4d4e19213373a7c43"
 
@@ -479,6 +499,10 @@ hash = "63cc6085f7d051556748faf21da54e15730116edf72bb26c13073b5dbccaf079"
 [[files]]
 file = "kubejs/server_scripts/woodcompat.js"
 hash = "f2a89dadda3c4f9c23d4e74d5a950e44328c4143b2e35aa27709c182b8dafbe1"
+
+[[files]]
+file = "kubejs/startup_scripts/ae2.js"
+hash = "476e2b71e0155575b19cac97676f21da47e0c191ed06de1a1aa221b768b67df7"
 
 [[files]]
 file = "mods/apotheosis.pw.toml"
