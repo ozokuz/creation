@@ -521,7 +521,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "db0a6a9c7d7c84ff18029f21a083e445ace641b6568453ffeddc0c406a6673e9"
+hash = "dab6770814c6f3d96808d78092001eb0e6c94a6f6560fc6c8e99c888b6736652"
 metafile = true
 
 [[files]]
@@ -826,7 +826,7 @@ metafile = true
 
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
-hash = "e08fc96a93cbf864e96053c1531e53249bf589780aeae0b9a588ebe649e2f563"
+hash = "8dc42e1fc7d9a297cb28ca652f0460030a641b74eb726ccc8e663d2be992d9e6"
 metafile = true
 
 [[files]]
@@ -1336,7 +1336,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "aa57dc1cc304a3f1946fa9300a6b6be00aac1fa68d84f36495556232f44c20be"
+hash = "a6b779b19fdc89e36439ddaf01be97ab2d6c1deb9229e104c581a575ebf1fa89"
 metafile = true
 
 [[files]]
