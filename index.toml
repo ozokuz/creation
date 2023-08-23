@@ -14,7 +14,7 @@ hash = "cfaf4a3f6a283b1758b5dd503d606d45c90d9415342052e33424d09e0db0e248"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "5c766c07afb445c527321f50332045bfff52f23bc590cac33257625bcc3e5d55"
+hash = "7d59aab4b580034f4d590f72c3b474ff94ba5932b5cbcfe8d9be3ad1b9a3612d"
 
 [[files]]
 file = "config/callablehorses-common.toml"
@@ -117,8 +117,24 @@ file = "defaultconfigs/sophisticatedbackpacks-server.toml"
 hash = "83519c51fa57f8a8ff7bb433b02d84873b39bf9dd58f710ee8f36d4a95d412e0"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/dark_polished_stone.png"
+hash = "d36518740d86b1eda30f661ce4e4f3672fed85a03c0c4e91fa9aecd9d7720c60"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/darker_polished_stone.png"
+hash = "766c88e00deb5740b0ef631249d399fa81d545f6efcc9fe29336dbfb6f1b0213"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/darkest_polished_stone.png"
+hash = "89a391fc1ed885a4970bb0827b9688430d25010b54730cccf1d9015604d1b1d6"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/fan.png"
 hash = "6c826dee8b5a4cda5e4b502e5a1da3e6ddfd66610bed5622c87910382eac5d8c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/polished_stone.png"
+hash = "7ab0d2aa4de0fe9751b19b9320846adec3defe9ea72eae9ea0dd1efdb7634e3a"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/incomplete_calculation_processor.png"
@@ -477,6 +493,10 @@ file = "kubejs/server_scripts/coinsje.js"
 hash = "41e14d0f8d6871d5dbb8451712a10a30af9cdd2cb580f1b4d4e19213373a7c43"
 
 [[files]]
+file = "kubejs/server_scripts/custom.js"
+hash = "76212e9247e94ffe9fee06112e36159d3fdbc224aa6335ccb21e27af5a3583bb"
+
+[[files]]
 file = "kubejs/server_scripts/functional_storage.js"
 hash = "1b83cbba967c9083221385add53c950f4bbd4a96b4ea9ee18862ce3b6f47a72a"
 
@@ -503,6 +523,10 @@ hash = "f2a89dadda3c4f9c23d4e74d5a950e44328c4143b2e35aa27709c182b8dafbe1"
 [[files]]
 file = "kubejs/startup_scripts/ae2.js"
 hash = "476e2b71e0155575b19cac97676f21da47e0c191ed06de1a1aa221b768b67df7"
+
+[[files]]
+file = "kubejs/startup_scripts/custom.js"
+hash = "a565f10aae8efa629d37b95aa63bcfc29615eea29489e95e0fcd1d0dcc167edb"
 
 [[files]]
 file = "mods/apotheosis.pw.toml"
