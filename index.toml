@@ -494,7 +494,7 @@ hash = "41e14d0f8d6871d5dbb8451712a10a30af9cdd2cb580f1b4d4e19213373a7c43"
 
 [[files]]
 file = "kubejs/server_scripts/custom.js"
-hash = "76212e9247e94ffe9fee06112e36159d3fdbc224aa6335ccb21e27af5a3583bb"
+hash = "be4a5887e64edecba5182837223dfee22f6ccd8168ddc5f296194d057aac1f0d"
 
 [[files]]
 file = "kubejs/server_scripts/functional_storage.js"
@@ -526,7 +526,7 @@ hash = "476e2b71e0155575b19cac97676f21da47e0c191ed06de1a1aa221b768b67df7"
 
 [[files]]
 file = "kubejs/startup_scripts/custom.js"
-hash = "a565f10aae8efa629d37b95aa63bcfc29615eea29489e95e0fcd1d0dcc167edb"
+hash = "5abbfb2eb49b4d72107c089bc14e52b8804e3f567a348e9a954ace2337cd8f85"
 
 [[files]]
 file = "mods/apotheosis.pw.toml"

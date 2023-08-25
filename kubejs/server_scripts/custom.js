@@ -16,3 +16,13 @@ ServerEvents.recipes((event) => {
     "minecraft:stone"
   );
 });
+
+ServerEvents.tags("block", (event) => {
+  event.add(
+    "minecraft:mineable/pickaxe",
+    "kubejs:polished_stone",
+    "kubejs:dark_polished_stone",
+    "kubejs:darker_polished_stone",
+    "kubejs:darkest_polished_stone"
+  );
+});
