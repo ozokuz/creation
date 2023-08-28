@@ -1,13 +1,13 @@
 name = "Enhanced Terminal"
-filename = "Enhanced Terminal-1.19-0.0.1-forge.jar"
+filename = "Enhanced Terminal-1.19-0.0.2-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "98806a7946f19f170e5d91427694f4690a4e4b47"
+hash = "38c517d1847439c280de6a246f945066659c320f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4688576
+file-id = 4721465
 project-id = 900273
