@@ -14,7 +14,7 @@ hash = "cfaf4a3f6a283b1758b5dd503d606d45c90d9415342052e33424d09e0db0e248"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "7d59aab4b580034f4d590f72c3b474ff94ba5932b5cbcfe8d9be3ad1b9a3612d"
+hash = "d14500d8e0ef28e2bdc568eb19c2b95e685526c32b4f4fa199190528658e5e0b"
 
 [[files]]
 file = "config/callablehorses-common.toml"
@@ -25,8 +25,16 @@ file = "config/carryon-common.toml"
 hash = "bed1f378722690954130ac405528c30a2bad538f43f6973cea818c1cab61c0aa"
 
 [[files]]
+file = "config/chunkloaders-common.toml"
+hash = "323e39de19f8b362823bcff9de51b49cb999aaf31a7fca0a0498c43f873d0b58"
+
+[[files]]
 file = "config/cofh_core-client.toml"
 hash = "93fddb1036fd280c710be18a2ab89d9bcb2171a795a37743ab0c1648488e73b4"
+
+[[files]]
+file = "config/createaddition-common.toml"
+hash = "c45755458fc4fca074f6863569f59f11749233cbb02559b316b305c119b35646"
 
 [[files]]
 file = "config/emi.css"
